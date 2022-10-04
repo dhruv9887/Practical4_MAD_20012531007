@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical4_MAD_20012531007</string>
+    <string name="camera">camera</string>
+    <string name="gallary">gallery</string>
+    <string name="map">map</string>
+    <string name="browse">browse</string>
+</resources>
